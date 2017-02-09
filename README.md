@@ -1,2 +1,2 @@
 # LUT
-Collection of filmic LUT's.
+A collection of LUT's for use with Photoshop and Affinity Photo
